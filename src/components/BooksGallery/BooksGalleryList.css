@@ -1,0 +1,31 @@
+
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  margin: 10px;
+;}
+
+
+#card-img {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.meta {
+  font-size: small;
+}
+
+.card-container p{
+  margin: 0;
+}
+.content {
+  font-size: smaller;
+}
+
+#edit-id  {
+   display: flex;
+}
